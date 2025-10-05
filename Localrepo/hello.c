@@ -4,5 +4,7 @@ int main ()
 
 
     printf("hello world!\n");
-    printf("i am tuba");
+    printf("i am arriety\n");
+    printf("cuet");
+    
 }
